@@ -1,0 +1,23 @@
+{
+    "name": "eric/message-server",
+    "description": "realtime messaging system",
+    "type": "project",
+    "require": {
+        "netresearch/jsonmapper": "1.1.1",
+        "pimple/pimple": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "Model\\":"model",
+          "Core\\":"core",
+          "Service\\":"service"
+        }
+        
+    },
+   "authors": [
+        {
+            "name": "ericwang",
+            "email": "123048591@qq.com"
+        }
+    ]
+}

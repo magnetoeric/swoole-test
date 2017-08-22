@@ -1,0 +1,11 @@
+{
+    "name": "eric/swoole-guid",
+    "description": "global unique id base on swoole",
+    "authors": [
+        {
+            "name": "ericwang",
+            "email": "123048591@qq.com"
+        }
+    ],
+    "require": {}
+}
